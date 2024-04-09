@@ -1,2 +1,2 @@
-greeting = "Hello World!"
+greeting =  “Git is Awesome!”
 print(greeting)
